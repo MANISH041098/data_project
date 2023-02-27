@@ -1,8 +1,8 @@
 import streamlit as st
-from matplotlib import image
+
 import pandas as pd
 import plotly.express as px
-import os
+
 
 st.title("Dashboard")
 
